@@ -14,4 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/abc.mk
+    $(LOCAL_DIR)/full_berkeley.mk \
+    $(LOCAL_DIR)/aosp_berkeley.mk
